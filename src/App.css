@@ -1,0 +1,53 @@
+.customer{
+    background-color: #0769da;
+    height: 50px;
+    color:  white;
+    padding-left: 300px;
+    
+}
+.shiping{
+    position: relative;
+    left: 70%;
+    top: -50px;
+    color: white;
+}
+/* Logo */
+.logo{
+    background-color: #0573f0;
+    height: 70px;
+    margin-top: -60px;
+}
+.logoi{
+    padding-left: 300px;
+    margin-top: 20px;
+
+}
+.text{
+    padding-left: 70%;
+    margin-top: -30px;
+}
+.navbar{
+    background-color: #0573f0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.content{
+height: 400px;
+width: 400px;
+background-color: white; 
+position: relative;
+left: 65%;
+top: -600px;
+}
+.cont{
+    height: 650px;
+    width: 65%;
+    background-color:  #f7fbfc;
+    position: relative;
+    left: 320px;
+    margin: 80px;
+}
+
+
+
